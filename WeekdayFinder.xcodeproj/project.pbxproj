@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		840D428722F8256D00133463 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 840D428622F8256D00133463 /* .gitignore */; };
 		84D1AD2722EFF5E100E0221D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D1AD2622EFF5E100E0221D /* AppDelegate.swift */; };
 		84D1AD2922EFF5E100E0221D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D1AD2822EFF5E100E0221D /* ViewController.swift */; };
 		84D1AD2C22EFF5E100E0221D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84D1AD2A22EFF5E100E0221D /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		840D428622F8256D00133463 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		84D1AD2322EFF5E100E0221D /* WeekdayFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeekdayFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84D1AD2622EFF5E100E0221D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84D1AD2822EFF5E100E0221D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		84D1AD1A22EFF5E100E0221D = {
 			isa = PBXGroup;
 			children = (
+				840D428622F8256D00133463 /* .gitignore */,
 				84D1AD2522EFF5E100E0221D /* WeekdayFinder */,
 				84D1AD2422EFF5E100E0221D /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				840D428722F8256D00133463 /* .gitignore in Resources */,
 				84D1AD3122EFF5E200E0221D /* LaunchScreen.storyboard in Resources */,
 				84D1AD2E22EFF5E200E0221D /* Assets.xcassets in Resources */,
 				84D1AD2C22EFF5E100E0221D /* Main.storyboard in Resources */,
